@@ -1,0 +1,28 @@
+{
+    "id": "6672455c23458d64ef74ca88_69696da54a847b0cc6bdd71d",
+    "audioUrl": "https://audio-collector.scale.com/api/recordings/s3Redirect/6672455c23458d64ef74ca88_69696da54a847b0cc6bdd71d",
+    "videoUrl": "https://audio-collector.scale.com/api/recordings/s3Redirect/6672455c23458d64ef74ca88_69696da54a847b0cc6bdd71d_video",
+    "metadata": {
+      "uploadedAt": "2026-01-15T22:43:50.049Z",
+      "transcription": "So I’ve been trying to eat out less and cook more at home, but I’m honestly not great at it, and I’m kind of curious about what makes a simple meal actually taste good without being complicated.",
+      "category": "",
+      "subcategory": "",
+      "noiseLevel": 0,
+      "recordingDevice": "MacBook Air",
+      "description": "Room in NYC",
+      "demographics": {
+        "accent": "English (en-US)",
+        "gender": "Male",
+        "nativeLanguages": [
+          "Telugu"
+        ]
+      },
+      "distribution": {
+        "recordingLocation": "Public, commercial, institutional, and social spaces",
+        "category": "Conversational/Natural Language",
+        "subcategory": "Knowledge-based Conversations",
+        "tone": "Food & Dining",
+        "language": "en_US"
+      }
+    }
+  }
