@@ -1,0 +1,28 @@
+{
+    "id": "6672455c23458d64ef74ca88_696968f3b1b48f8a9905c6bd",
+    "audioUrl": "https://audio-collector.scale.com/api/recordings/s3Redirect/6672455c23458d64ef74ca88_696968f3b1b48f8a9905c6bd",
+    "videoUrl": "https://audio-collector.scale.com/api/recordings/s3Redirect/6672455c23458d64ef74ca88_696968f3b1b48f8a9905c6bd_video",
+    "metadata": {
+      "uploadedAt": "2026-01-15T22:23:48.476Z",
+      "transcription": "Give me a few tips for keeping a casual conversation going while meeting someone new and things start to feel awkward.",
+      "category": "",
+      "subcategory": "",
+      "noiseLevel": 0,
+      "recordingDevice": "MacBook Air",
+      "description": "Inside a room",
+      "demographics": {
+        "accent": "English (en-US)",
+        "gender": "Male",
+        "nativeLanguages": [
+          "Telugu"
+        ]
+      },
+      "distribution": {
+        "recordingLocation": "Outdoor public environments",
+        "category": "Direct Command",
+        "subcategory": "High-quality conversations",
+        "tone": "Casual & Social Interaction",
+        "language": "en_US"
+      }
+    }
+  }
