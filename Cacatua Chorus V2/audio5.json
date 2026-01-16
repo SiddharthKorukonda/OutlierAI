@@ -1,0 +1,29 @@
+{
+    "id": "6672455c23458d64ef74ca88_69696f4c29564f36e7ad6b08",
+    "audioUrl": "https://audio-collector.scale.com/api/recordings/s3Redirect/6672455c23458d64ef74ca88_69696f4c29564f36e7ad6b08",
+    "videoUrl": "https://audio-collector.scale.com/api/recordings/s3Redirect/6672455c23458d64ef74ca88_69696f4c29564f36e7ad6b08_video",
+    "metadata": {
+      "uploadedAt": "2026-01-15T22:50:53.178Z",
+      "transcription": "So I’ve noticed that people can have really strong opinions on certain topics, and I’m curious about how you can disagree with someone in a conversation without it turning into an argument or getting awkward.",
+      "category": "",
+      "subcategory": "",
+      "noiseLevel": 0,
+      "recordingDevice": "MacBook Air",
+      "description": "Room in NYC",
+      "demographics": {
+        "accent": "English (en-US)",
+        "gender": "Male",
+        "nativeLanguages": [
+          "Telugu"
+        ]
+      },
+      "distribution": {
+        "recordingLocation": "Public, commercial, institutional, and social spaces",
+        "category": "Conversational/Natural Language",
+        "subcategory": "High-quality conversations",
+        "tone": "Debate & Opinion Exchange",
+        "language": "en_US"
+      }
+    }
+  }
+  
