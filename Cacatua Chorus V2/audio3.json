@@ -1,0 +1,28 @@
+{
+    "id": "6672455c23458d64ef74ca88_69696b594a847b0cc6bdd71c",
+    "audioUrl": "https://audio-collector.scale.com/api/recordings/s3Redirect/6672455c23458d64ef74ca88_69696b594a847b0cc6bdd71c",
+    "videoUrl": "https://audio-collector.scale.com/api/recordings/s3Redirect/6672455c23458d64ef74ca88_69696b594a847b0cc6bdd71c_video",
+    "metadata": {
+      "uploadedAt": "2026-01-15T22:34:02.606Z",
+      "transcription": "How can I keep a casual conversation going when I’m meeting someone new and don’t really know what to talk about?",
+      "category": "",
+      "subcategory": "",
+      "noiseLevel": 0,
+      "recordingDevice": "MacBook Air",
+      "description": "Room in NYC",
+      "demographics": {
+        "accent": "English (en-US)",
+        "gender": "Male",
+        "nativeLanguages": [
+          "Telugu"
+        ]
+      },
+      "distribution": {
+        "recordingLocation": "Public, commercial, institutional, and social spaces",
+        "category": "Direct Question",
+        "subcategory": "High-quality conversations",
+        "tone": "Casual & Social Interaction",
+        "language": "en_US"
+      }
+    }
+  }
