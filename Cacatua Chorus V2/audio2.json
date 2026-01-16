@@ -1,0 +1,29 @@
+{
+    "id": "6672455c23458d64ef74ca88_69696a680981ae61d402eda1",
+    "audioUrl": "https://audio-collector.scale.com/api/recordings/s3Redirect/6672455c23458d64ef74ca88_69696a680981ae61d402eda1",
+    "videoUrl": "https://audio-collector.scale.com/api/recordings/s3Redirect/6672455c23458d64ef74ca88_69696a680981ae61d402eda1_video",
+    "metadata": {
+      "uploadedAt": "2026-01-15T22:30:01.767Z",
+      "transcription": "I've been hearing a lot about artificial intelligence lately, especially things like chatbots and recommendation algorithms, and I'm trying to get a clearer sense of how they actually work in everyday technology and what that might mean for the future.",
+      "category": "",
+      "subcategory": "",
+      "noiseLevel": 0,
+      "recordingDevice": "MacBook Air",
+      "description": "Inside a room in NYC",
+      "demographics": {
+        "accent": "English (en-US)",
+        "gender": "Male",
+        "nativeLanguages": [
+          "Telugu"
+        ]
+      },
+      "distribution": {
+        "recordingLocation": "Public, commercial, institutional, and social spaces",
+        "category": "Indirect Request",
+        "subcategory": "Knowledge-based Conversations",
+        "tone": "Science & Tech",
+        "language": "en_US"
+      },
+      "markedAsUsed": false
+    }
+  }
